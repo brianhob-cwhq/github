@@ -4,7 +4,7 @@ body{
     background-color: #202020;
     background-image: linear-gradient(to bottom , black, #202020);
     background-attachment: fixed;
-    color: white;
+    color: rgb(234, 234, 234);
 }
 
 h1{
